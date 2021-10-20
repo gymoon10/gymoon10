@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there 👋
 
 <!--
 **gymoon10/gymoon10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=gymoon10&show_icons=true)
+
+🌱 관심 분야 : Computer Vision, NLP, GAN ...
+
+🔭 주요 작업 : 다양한 딥러닝 분야의 논문 리뷰 & 프로그래밍 실습
+
+📫 메일 : gymoon10@naver.com or pain137@korea.ac.kr
+
+
