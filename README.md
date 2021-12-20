@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=gymoon10&show_icons=true)
 
-🌱 관심 분야 : Computer Vision, NLP, GAN ...
+🌱 관심 분야 : Computer Vision & Image Processing
 
-🔭 주요 작업 : 다양한 딥러닝 분야의 논문 리뷰 & 프로그래밍 실습
+🔭 주요 작업 : 논문 리뷰 & 프로그래밍 실습 
 
 📫 메일 : gymoon10@naver.com or pain137@korea.ac.kr
 
