@@ -18,20 +18,16 @@ Here are some ideas to get you started:
 
 🎓 **Education** 
     
-    B.S in Statistics, Korea University (2015~2021)
-    M.S in Smart Convergence, Korea University (2022~)
+ - B.S in Statistics, Korea University (2015~2021)
+ - M.S in Smart Convergence, Korea University (2022~)
 
 🌱 **Research Area** 
    
-     Deep Learning
-     Computer Vision & Image Processing
+ - Deep Learning
+ - Computer Vision & Image Processing
 
-🔭 **Work** 
-     
-     Paper review & Programming 
+🔭 **Work**   : Paper review & Programming 
 
-📫 **Contact** 
-    
-     gymoon10@naver.com or pain137@korea.ac.kr
+📫 **Contact**   : gymoon10@naver.com or pain137@korea.ac.kr
 
 
