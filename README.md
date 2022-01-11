@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 🌱 **Research Area** 
    
-     Deep Learning (Computer Vision & Image Processing)
+     Deep Learning - Computer Vision & Image Processing
 
 🔭 **Work**   : Paper review & Programming 
 
