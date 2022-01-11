@@ -16,10 +16,22 @@ Here are some ideas to get you started:
 -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=gymoon10&show_icons=true)
 
-🌱 연구 분야 : Computer Vision & Image Processing
+🎓 **Education** 
+    
+    B.S in Statistics, Korea University (2015~2021)
+    M.S in Smart Convergence, Korea University (2022~)
 
-🔭 주요 작업 : 논문 리뷰 & 프로그래밍 실습 
+🌱 **Research Area** 
+   
+     Deep Learning
+     Computer Vision & Image Processing
 
-📫 메일 : gymoon10@naver.com or pain137@korea.ac.kr
+🔭 **Work** 
+     
+     Paper review & Programming 
+
+📫 **Contact** 
+    
+     gymoon10@naver.com or pain137@korea.ac.kr
 
 
