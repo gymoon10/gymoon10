@@ -20,6 +20,7 @@ Here are some ideas to get you started:
     
  - B.S in Statistics, Korea University (2015~2021)
  - M.S in Smart Convergence, Korea University (2022~)
+    - https://sites.google.com/a/icq.korea.ac.kr/iml 
 
 🌱 **Research Area** 
    
