@@ -22,13 +22,14 @@ Here are some ideas to get you started:
  - M.S in Smart Convergence, Korea University (2022~)
     - Working at Intelligent Media Lab - https://sites.google.com/a/icq.korea.ac.kr/iml 
 
+📫 **Contact**   : gymoon10@naver.com or pain137@korea.ac.kr
+
 🌱 **Research Area** 
    
-     Deep Learning - Computer Vision & Image Processing
+     Computer Vision - Semantic & Instance Segmentation
 
 🔭 **Work**   : Paper review & Programming 
 
-📫 **Contact**   : gymoon10@naver.com or pain137@korea.ac.kr
 
 🌱 **Awards**
 
@@ -37,5 +38,11 @@ Here are some ideas to get you started:
 - 2021 빅콘테스트 데이터분석분야 대상(과학기술정보통신부 장관) - 챔피언스리그 수산Biz부문
 
 - 2022 고려대학교 SSRC 학생창의-자율과제 부문 대상(과학기술정보통신부 장관) - 웹툰 컨텐츠 접근성 향상을 위한 색약 교정 
+
+🌱 **Publications**
+
+- 어텐션 기반의 U-Net과 판별 손실 함수를 활용한 식물 잎 객체 분할 기법, 대한전자공학회 하계학술논문집,  June , 2022
+- 
+- 국소 영역의 성능 향상을 위한 연구, 대한전자공학회 추계학술대회논문집, Nov, 2022
 
 
