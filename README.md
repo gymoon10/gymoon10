@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 2022 고려대학교 SSRC 학생창의-자율과제 부문 대상(과학기술정보통신부 장관) - 웹툰 컨텐츠 접근성 향상을 위한 색약 교정 
 
-😄 **Publications**
+🔭 **Publications**
 
 - 어텐션 기반의 U-Net과 판별 손실 함수를 활용한 식물 잎 객체 분할 기법, 대한전자공학회 하계학술논문집,  June , 2022
 
