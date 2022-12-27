@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 🌱 **Publications**
 
 - 어텐션 기반의 U-Net과 판별 손실 함수를 활용한 식물 잎 객체 분할 기법, 대한전자공학회 하계학술논문집,  June , 2022
-- 
+
 - 국소 영역의 성능 향상을 위한 연구, 대한전자공학회 추계학술대회논문집, Nov, 2022
 
 
