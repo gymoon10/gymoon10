@@ -26,7 +26,11 @@ Here are some ideas to get you started:
 
 🌱 **Research Area** 
    
-     Computer Vision - Semantic & Instance Segmentation
+     Computer Vision 
+     
+     - Semantic & Instance Segmentation
+     
+     - GAN
 
 😄 **Awards**
 
