@@ -21,8 +21,6 @@ Here are some ideas to get you started:
  - B.S in Korea University (2015~2021)
  - M.S in Korea University (2022~)
 
-📫 **Contact**   : gymoon10@naver.com or pain137@korea.ac.kr
-
 🌱 **Research Area** 
    
      Computer Vision - Semantic & Instance Segmentation / GAN & Diffusion
