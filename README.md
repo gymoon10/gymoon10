@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 🎓 **Education** 
     
- - B.S in Statistics, Korea University (2015~2021)
- - M.S in Smart Convergence, Korea University (2022~)
+ - B.S in Korea University (2015~2021)
+ - M.S in Korea University (2022~)
 
 📫 **Contact**   : gymoon10@naver.com or pain137@korea.ac.kr
 
