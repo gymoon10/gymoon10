@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 💬 **Contact**
 
-pain137@korea.ac.kr / gymoon10@naver.com
+    pain137@korea.ac.kr / gymoon10@naver.com
 
 
 
