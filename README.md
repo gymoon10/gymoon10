@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=gymoon10&show_icons=true)
 
 🎓 **Education** 
-    
+   
  - B.S in Statistics, Korea University (2015~2021)
  - M.S in Smart Convergence(EE), Korea University (2022~)
 
 🌱 **Research Area** 
    
-     Computer Vision - Semantic & Instance Segmentation / GAN & Diffusion
+     Computer Vision - Semantic & Instance Segmentation / ~~GAN & Diffusion~~
 
 😄 **Awards**
 
