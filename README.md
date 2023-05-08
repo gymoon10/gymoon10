@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 🎓 **Education** 
     
- - B.S in Korea University (2015~2021)
- - M.S in Korea University (2022~)
+ - B.S in Statistics, Korea University (2015~2021)
+ - M.S in Smart Convergence(EE), Korea University (2022~)
 
 🌱 **Research Area** 
    
@@ -32,6 +32,11 @@ Here are some ideas to get you started:
 - 2021 빅콘테스트 데이터분석분야 대상(과학기술정보통신부 장관) - 챔피언스리그 수산Biz부문
 
 - 2022 고려대학교 SSRC 학생창의-자율과제 부문 대상(과학기술정보통신부 장관) - 웹툰 컨텐츠 접근성 향상을 위한 색약 교정 
+
+💬 **Contact**
+
+pain137@korea.ac.kr / gymoon10@naver.com
+
 
 
 
