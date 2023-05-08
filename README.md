@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 🌱 **Research Area** 
    
-     Computer Vision - Semantic & Instance Segmentation / ~~GAN & Diffusion~~
+   - Computer Vision - Semantic & Instance Segmentation / ~~GAN & Diffusion~~
 
 😄 **Awards**
 
