@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🎓 **Education** 
    
  - B.S in Statistics, Korea University (2015~2021)
- - M.S in Smart Convergence(EE), Korea University (2022~)
+ - M.S in Smart Convergence(EE), Korea University (2022~2024)
 
 🌱 **Research Area** 
    
